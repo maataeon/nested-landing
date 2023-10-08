@@ -1,0 +1,15 @@
+.mainAction-container button {
+  margin: 1rem 0;
+  background: #E8820B;
+  border-radius: 1rem;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 1.5rem;
+  line-height: 2rem;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #FFFFFF;
+  letter-spacing: 1.14px;
+  font-family: 'Lexend Exa';
+}
